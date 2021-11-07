@@ -275,3 +275,17 @@ h3{
 	border: 1px solid black;
 	padding-bottom: 5px;
 }
+/* *************************** */
+
+@media screen and (max-width:768px){
+	.icecream-merry {
+		display: flex;
+		flex-direction: row-reverse;
+		padding-top: 50px;
+		padding-bottom: 30px;
+	}
+
+	.img1 {
+		width: 50%;
+	}
+}
