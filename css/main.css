@@ -250,3 +250,28 @@ text-decoration: none;
 /* ************************ */
 
 /* *******Custom page Styling******** */
+.imgs {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 15px;
+
+}
+
+.cus-info {
+	text-align: center;
+	text-decoration: underline;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin: 5px;
+}
+h3{
+	padding-bottom: 20px;
+}
+.option{
+	text-decoration: none;
+	color: black;
+	border: 1px solid black;
+	padding-bottom: 5px;
+}
