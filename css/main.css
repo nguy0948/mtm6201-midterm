@@ -285,7 +285,22 @@ h3{
 		padding-bottom: 30px;
 	}
 
-	.img1 {
-		width: 50%;
+	.icecream-insta {
+		display: flex;
+		flex-direction: row;
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+
+	.img1{
+		width: 40%;
+	}
+
+	.img2{
+		width: 30%;
+	}
+
+	.para {
+		line-height: 30px;
 	}
 }
