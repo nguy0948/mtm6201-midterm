@@ -303,4 +303,38 @@ h3{
 	.para {
 		line-height: 30px;
 	}
+
+	header nav li {
+		display: inline-block;
+		margin-left: auto;
+	padding-top: 30px;
+	font-size: 10px;
+	}
+
+	.box {
+		display: grid;
+		text-align: center;
+		grid-template-columns: repeat(2, 1fr);
+	  column-gap: 20px;
+	  row-gap: 80px;
+	  grid-auto-rows: minmax(100px, auto);
+	  padding: 30px;
+	}
+
+	.box5 {
+		height: 300px;
+	}
+
+	.custom {
+		display: flex;
+		flex-direction: row;
+	}
+
+	.cus-info  {
+		padding-top: 150px;
+	}
+
+	.imgs {
+		padding-bottom: 15px;
+	}
 }
